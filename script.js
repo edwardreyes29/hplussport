@@ -12,16 +12,17 @@
 
       var btnEstimate = document.getElementById('btn-estimate'); // Get button reference
 
-      btnEstimate.disabled = true;
+      toggleEstimate();
 
-      // Check when value of state changes
-      state.addEventListener('change', function() {
+      state.addEventListener("change", toggleEstimate);
+
+      function toggleEstimate() {
         if (state.value === "") {
           btnEstimate.disabled = true;
-        } else { // if state value changes
+        } else {
           btnEstimate.disabled = false;
         }
-      });
+      }
 
       function estimateTotal(event) {
         // Prevent the page from reloading
