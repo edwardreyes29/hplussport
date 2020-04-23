@@ -13,3 +13,8 @@ checking input for errors, and displaying the results of shipping calculations.
 I used Bings Maps Rest services to find the Geo location for the map and used
 Bings Maps V8 control to customize the maps appearance and functionality.
 ![Submit Form Disabled](assets/screenshot-4.png)
+### Axios Implementation
+Uses Axios to get City location data from zip and auto completes State and City input fields
+![Submit Form Disabled](assets/screenshot-5.png)
+![Submit Form Disabled](assets/screenshot-6.png)
+
