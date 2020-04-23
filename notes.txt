@@ -8,3 +8,11 @@ https://zip.getziptastic.com/v2/us/91502/
 
 Need to use server: Mamps/XAMPP
 Need php to run php file
+
+Using api/index.php
+http://localhost:8888/hplussport/api/?zip=91502
+run in server and pass zip value
+
+document.querySelector('body').classList.add("js");
+
+cityField.parentNode.parentNode.style.display = "block";
