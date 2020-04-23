@@ -16,3 +16,15 @@ run in server and pass zip value
 document.querySelector('body').classList.add("js");
 
 cityField.parentNode.parentNode.style.display = "block";
+
+Finished!
+Next Steps:
+    Learning JavaScript Debugging
+    Workflow Tools For Web Development
+
+    Frameworks
+    * CSS Essential Training
+    Interactive Animations with CSS
+    * React For Web Designers
+    * Vue.js For Web Designers
+    * WordPress: Building Child Themes
