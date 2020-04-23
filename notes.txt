@@ -1,0 +1,10 @@
+https://getziptastic.com/documentation
+
+https://zip.getziptastic.com/v3/<two letter country code>/<postal code>/
+
+use v2
+
+https://zip.getziptastic.com/v2/us/91502/
+
+Need to use server: Mamps/XAMPP
+Need php to run php file
